@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Signature Service</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_company">Company Id</string>
+    <string name="prompt_secret_key">Secret key</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="login_failed">"Sign in failed"</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="logout">Logout</string>
+    <string name="sign">Sign</string>
+    <string name="send">Send</string>
+    <string name="fio">FIO</string>
+    <string name="leave_your_sign_below">Leave your sign below</string>
+    <string name="clear">Clear</string>
+    <string name="def_lang">EN</string>
+</resources>
